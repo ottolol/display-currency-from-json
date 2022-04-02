@@ -2,4 +2,4 @@
 
 
 ### Скрин приложения
-![](src/assets/display-currency-from-json.png)
+![](img/display-currency-from-json.png)
